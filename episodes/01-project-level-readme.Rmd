@@ -1,0 +1,90 @@
+---
+title: 'Project-Level README.txt'
+teaching: 10
+exercises: 2
+---
+
+:::::::::::::::::::::::::::::::::::::: questions 
+
+- What is a `README.txt` file?
+- What is the bare minimum to include in a Project-Level README.txt file?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: objectives
+
+- Learn what a Project-Level README.txt file is
+- Be able to easily generate a Project-Level README.txt file for your project
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::: prereq
+
+Download the [Example README.txt](files/Example_PLR.txt)
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## Introduction
+
+A README file is the starting point for understanding the group of files it accompanies, 
+stating in the name that it should be read first. README files are digital text files in 
+a common format (often .txt or .md, but not exclusively) that provide information about 
+a group of files. README’s are flexible and can be used for anything from describing a 
+whole project (giving a project overview and general file layout) to providing nuanced 
+documentation for a small subset of files. For those using a paper notebook, README’s 
+can supplement written notes by keeping a copy of the documentation alongside digital 
+data.
+
+### Project-Level (PLR) versus Dataset-level (DLR) README.txt
+
+Data files living on a computer often need extra documentation
+for someone to understand what research they correspond to. In particular, it
+is useful to record the most basic project information and store it in the toplevel
+folder of each research project. The top level README discussed in this episode only 
+pertains to the project-level data. 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+A project can contain multiple datasets, and each dataset should have it's own associated 
+README file describing that data. A README file is like the instruction manual for assembling 
+furniture. It provides the necessary context and guidance to understand and use the accompanying 
+pieces (digital content).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Important here is the fact that both the project and each dataset should have it's own
+associated README file.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## What to include in a PLR
+
+In general, a PLR should include:
+
+- Project description
+- Project time period
+- Project collaborators
+- Storage locations for data, code, and files
+- Project documentation methods
+- File organization and naming conventions
+- Any additional information necessary for understanding the files
+
+::::::::::::::::::::::::::::::::::::: challenge 
+
+Make sure to download the example README.txt. 
+Pick a research project and answer the included questions.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- README files are crucial for understanding your data, especially a year later.
+- The PLR contains is in the top level folder of the project and contains basic
+data about the project.
+- Project would have one PLR and a DLR for all datasets.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+

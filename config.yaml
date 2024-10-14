@@ -70,6 +70,9 @@ episodes:
 - 02-dataset-readme-data-dictionary.Rmd
 - 03-file-organization-naming.Rmd
 - 04-data-storage.Rmd
+- 05-data-management.Rmd
+- 06-data-sharing.Rmd
+- 07-project-wrap-up.Rmd
 
 # Information for Learners
 learners: 

@@ -1,5 +1,5 @@
 ---
-title: 'Introduction - Research Data Management'
+title: 'Research Data Management'
 teaching: 10
 exercises: 2
 ---

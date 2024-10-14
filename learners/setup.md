@@ -2,53 +2,48 @@
 title: Setup
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+## What is Research Data Management (RDM)
 
-## Data Sets
+RDM involves practices and choices that simplify the process of finding, comprehending, 
+and utilizing research data for you, your collaborators, and your future self. These 
+practices encompass the entire data lifecycle, from collection and analysis to sharing 
+and reuse. Research is hard enough as it is without having to
+fight with your files, so the goal of data management is for you to maximize
+your time doing research instead of spending extra time with file handling.
 
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-## Software Setup
+Emphasize that proper Research Data Management is a way to make dealing with data
+a better experience. It allows for understanding your data even after comming back
+to it after a long period of time.
 
-::::::::::::::::::::::::::::::::::::::: discussion
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Details
+## Why do RDM
 
-Setup for different systems can be presented in dropdown menus via a `spoiler`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
+Most researchers have spent time, at some point in their careers, digging through
+their computer to find a specific file that can’t be located. It’s incredibly frustrating
+and a waste of time and resources, especially if you end up recollecting
+missing data. The good news is that it is possible to avoid this situation entirely
+by strategically managing your data better.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::
+Done well, RDM means:
 
-:::::::::::::::: spoiler
+- Understanding of data and its collection methods, even after a year
+- Quick and easy retrieval of desired files
+- Prevention of data loss, even if your hard drive crashes
+- Clarity around the rights and responsibilities you have over your data
+- Knowledge of how and where to share your data to comply with your funder’s
+data sharing policy
+- Ability to pick up and easily reuse data from a past project
 
-### Windows
+::::::::::::::::::::::::::::::::::::: keypoints 
 
-Use PuTTY
+- RDM is really about helping researchers understand their data
+- RDM helps researchers keep their data safe and backed up
+- RDM helps researchers use their data even after leaving it for a long period
+- RDM allows you to more easily share your research data
 
-::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::: spoiler
-
-### MacOS
-
-Use Terminal.app
-
-::::::::::::::::::::::::
-
-
-:::::::::::::::: spoiler
-
-### Linux
-
-Use Terminal
-
-::::::::::::::::::::::::
 

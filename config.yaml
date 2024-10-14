@@ -33,7 +33,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/carpentries/workbench-template-md'
+source: 'https://github.com/michaelcoe/Data-Management-Training.git'
 
 # Default branch of your lesson
 branch: 'main'
@@ -64,8 +64,7 @@ contact: 'michael.coe@canterbury.ac.nz'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- 00-introduction.Rmd
+episodes:
 - 01-project-level-readme.Rmd
 - 02-dataset-readme-data-dictionary.Rmd
 - 03-file-organization-naming.Rmd

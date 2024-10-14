@@ -19,6 +19,15 @@
     <loc>https://carpentries.github.io/workbench-template-md/04-data-storage.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/05-data-management.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/06-data-sharing.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/07-project-wrap-up.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
   </url>
   <url>
@@ -53,6 +62,15 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/04-data-storage.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/05-data-management.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/06-data-sharing.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/07-project-wrap-up.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>

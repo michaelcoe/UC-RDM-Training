@@ -18,13 +18,13 @@
   <div class="container-fluid top-nav-container">
     <div class="col-md-8">
       <div class="large-logo">
-        <img id="incubator-logo" alt="This lesson serves as a primer for research data management and handling." src="../assets/images/incubator-logo.svg"><span class="badge text-bg-danger">
-          <abbr title="This lesson is in the pre-alpha phase, which means that it is in early development, but has not yet been taught.">
-            <a href="https://cdh.carpentries.org/the-lesson-life-cycle.html#early-development-pre-alpha-through-alpha" class="external-link alert-link">
-              <i aria-hidden="true" class="icon" data-feather="alert-octagon" style="border-radius: 5px"></i>
-              Pre-Alpha
+        <img id="incubator-logo" alt="This lesson serves as a primer for research data management and handling." src="../assets/images/incubator-logo.svg"><span class="badge text-bg-info">
+          <abbr title="This lesson is in the beta phase, which means that it is ready for teaching by instructors outside of the original author team.">
+            <a href="https://cdh.carpentries.org/the-lesson-life-cycle.html#polishing-beta-stage" class="external-link alert-link">
+              <i aria-hidden="true" class="icon" data-feather="alert-circle" style="border-radius: 5px"></i>
+              Beta
             </a>
-            <span class="visually-hidden">This lesson is in the pre-alpha phase, which means that it is in early development, but has not yet been taught.</span>
+            <span class="visually-hidden">This lesson is in the beta phase, which means that it is ready for teaching by instructors outside of the original author team.</span>
           </abbr>
         </span>
 
@@ -321,8 +321,11 @@
       <hr></nav><main id="main-content" class="main-content"><h1 class="schedule-heading">Summary and Schedule</h1>
       
 
-<p>This is a new lesson built with <a href="https://carpentries.github.io/sandpaper-docs" class="external-link">The Carpentries
-Workbench</a>.</p>
+<p>The lesson encompasses best practices around Research Data
+Management.</p>
+<!-- This is a new lesson built with [The Carpentries Workbench][workbench].
+
+[workbench]: https://carpentries.github.io/sandpaper-docs -->
 <!--
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
@@ -341,7 +344,7 @@ What is a <code>README.txt</code> file?<br>What is the bare minimum to
 include in a Project-Level README.txt file?
 </td>
 </tr><tr><td>
-<span class="visually-hidden">Duration: </span>00h 12m
+<span class="visually-hidden">Duration: </span>00h 11m
 </td>
 <td>
  2. <a href="02-dataset-readme-data-dictionary.html">Dataset README and
@@ -353,7 +356,7 @@ project-level README file?<br>What is a data dictionary and how is it
 different from a data-level README file?
 </td>
 </tr><tr><td>
-<span class="visually-hidden">Duration: </span>00h 24m
+<span class="visually-hidden">Duration: </span>00h 23m
 </td>
 <td>
  3. <a href="03-file-organization-naming.html">File Orgainization and
@@ -364,7 +367,7 @@ What is the best file organization scheme for you?<br>What is the best
 file naming convention for you?
 </td>
 </tr><tr><td>
-<span class="visually-hidden">Duration: </span>00h 36m
+<span class="visually-hidden">Duration: </span>00h 35m
 </td>
 <td>
  4. <a href="04-data-storage.html">Data Storage</a>
@@ -375,7 +378,7 @@ basic information you should have about where your research data is
 stored?<br>What is the importance of backing up your research data?
 </td>
 </tr><tr><td>
-<span class="visually-hidden">Duration: </span>00h 48m
+<span class="visually-hidden">Duration: </span>00h 47m
 </td>
 <td>
  5. <a href="05-data-management.html">Data Management</a>
@@ -385,7 +388,7 @@ What are the benefits of writing a living Data Management Plan?<br>Why
 is it a good idea to think of data stewardship?
 </td>
 </tr><tr><td>
-<span class="visually-hidden">Duration: </span>01h 00m
+<span class="visually-hidden">Duration: </span>00h 59m
 </td>
 <td>
  6. <a href="06-data-sharing.html">Data Sharing</a>
@@ -396,7 +399,7 @@ benefits of sharing you data?<br>Do you need to include all your data
 in a repository?
 </td>
 </tr><tr><td>
-<span class="visually-hidden">Duration: </span>01h 12m
+<span class="visually-hidden">Duration: </span>01h 11m
 </td>
 <td>
  7. <a href="07-project-wrap-up.html">Ending the Research Project</a>
@@ -405,7 +408,7 @@ in a repository?
 How do you write a lesson using R Markdown and <a href="https://carpentries.github.io/sandpaper/" class="external-link">sandpaper</a>?
 </td>
 </tr><tr><td>
-<span class="visually-hidden">Duration: </span>01h 24m
+<span class="visually-hidden">Duration: </span>01h 25m
 </td>
 <td>
 Finish
@@ -418,7 +421,9 @@ any links that you are not going to use.
  --></tbody></table><p>
       The actual schedule may vary slightly depending on the topics and exercises chosen by the instructor.
       </p>
-      </section><section id="setup"><section><h2 class="section-heading" id="what-is-research-data-management-rdm">What is Research Data Management (RDM)<a class="anchor" aria-label="anchor" href="#what-is-research-data-management-rdm"></a></h2>
+      </section><section id="setup"><p>The lessons herein are based on the work done by Kristin Briney in
+“The Research Data Management Workbook<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p>
+<section><h2 class="section-heading" id="what-is-research-data-management-rdm">What is Research Data Management (RDM)<a class="anchor" aria-label="anchor" href="#what-is-research-data-management-rdm"></a></h2>
 <hr class="half-width"><p>RDM involves practices and choices that simplify the process of
 finding, comprehending, and utilizing research data for you, your
 collaborators, and your future self. These practices encompass the
@@ -432,7 +437,7 @@ handling.</p>
 <button class="accordion-button instructor-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructor1" aria-expanded="false" aria-controls="collapseInstructor1">
   <h3 class="accordion-header" id="headingInstructor1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="edit-2"></i></div> Instructor Note </h3>
 </button>
-<div id="collapseInstructor1" class="accordion-collapse collapse" data-bs-parent="#accordionInstructor1" aria-labelledby="headingInstructor1">
+<div id="collapseInstructor1" class="accordion-collapse collapse" aria-labelledby="headingInstructor1" data-bs-parent="#accordionInstructor1">
 <div class="accordion-body">
 <p>Emphasize that proper Research Data Management is a way to make
 dealing with data a better experience. It allows for understanding your
@@ -477,7 +482,13 @@ long period</li>
 Place links that you need to refer to multiple times across pages here. Delete
 any links that you are not going to use.
  -->
-</section></section></main><nav class="bottom-pagination mx-md-4" aria-label="Next Chapter"><!-- content for small screens --><div class="d-block d-sm-block d-md-none">
+</section><div class="footnotes footnotes-end-of-document">
+<hr><ol><li id="fn1"><p>Briney, K. (2023). The Research Data Management
+Workbook. Caltech Library. <a href="https://doi.org/10.7907/z6czh-7zx60" class="external-link uri">https://doi.org/10.7907/z6czh-7zx60</a><a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol></div>
+
+
+      </section></main><nav class="bottom-pagination mx-md-4" aria-label="Next Chapter"><!-- content for small screens --><div class="d-block d-sm-block d-md-none">
         <a class="chapter-link float-end" href="../instructor/01-project-level-readme.html">Next<i aria-hidden="true" class="small-arrow" data-feather="arrow-right"></i></a>
       </div>
       <!-- content for large screens -->
@@ -520,12 +531,12 @@ any links that you are not going to use.
   "inLanguage": "en",
   "dct:conformsTo": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE",
   "description": "A Carpentries Lesson teaching foundational data and coding skills to researchers worldwide",
-  "keywords": "software, data, lesson, The Carpentries",
+  "keywords": "data management, data, lesson, The Carpentries",
   "name": "Data Handling and Management Training",
   "creativeWorkStatus": "active",
   "url": "https://michaelcoe.github.io/Data-Management-Training.git/instructor/index.html",
   "identifier": "https://michaelcoe.github.io/Data-Management-Training.git/instructor/index.html",
-  "dateCreated": "2024-10-14",
+  "dateCreated": "2024-10-15",
   "dateModified": "2024-10-15",
   "datePublished": "2024-10-15"
 }

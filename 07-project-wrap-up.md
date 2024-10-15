@@ -1,7 +1,7 @@
 ---
 title: 'Ending the Research Project'
 teaching: 10
-exercises: 2
+exercises: 4
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -25,10 +25,10 @@ all of the important details about your data and can make good decisions about
 preparing it for the future. This episode has three sections to work through
 for project wrap up: a section on converting data to more open file types; a
 checklist for populating a project Archive folder; and a checklist for preparing
-data for reuse, which leverages the previous two exercises.
+data for reuse, which leverages the previous episode.
 
 This episode also covers project wrap up in the form of separating from your
-institution. This checklist exercise for the departing researcher is important to
+institution. This checklist challenge for the departing researcher is important to
 work through so that critical data does not get lost in the transition. A fuller
 version of this checklist, intended for both the departing personnel and a project
 administrator to work through together, is also available[^1].
@@ -37,7 +37,7 @@ administrator to work through together, is also available[^1].
 
 The end of a project is a good time to prepare data for potential
 future reuse, as you still know the important details about the data to record
-and have access to any software used to create the data. This checklist exercise
+and have access to any software used to create the data. This checklist challenge
 walks you through steps to gather your data into a central place and document
 the project. Working through the checklist results in project data being in one
 central location, well documented, and organized and formatted in a way to make
@@ -48,8 +48,8 @@ future reuse easier.
 ## Prepare Data Checklist
 
 Gather all of the data from a project and work through the
-checklist to organize and document the data for future reuse. This exercise
-refers to several other exercises in the Workbook that should be completed during
+checklist to organize and document the data for future reuse. This challenge
+refers to several other challenges in the Workbook that should be completed during
 this process, if they have not been already. The following is adapted from[^2].
 
 ### Prepare Data
@@ -57,23 +57,23 @@ this process, if they have not been already. The following is adapted from[^2].
 [ ] Move all data into one central project folder; this folder may have sub-folders
 and should be organized however makes sense for your data.
 
-[ ] As necessary, work through Exercise 7.2: Convert Data File Types to copy data into more 
-open/common file formats.
+[ ] As necessary, convert data file types to copy data into more open/common file formats.
 
 ### Back Up Your Research Notes
 
 [ ] If your notes are electronic, save a copy in the project folder
+
 [ ] If your notes are physical, scan them and save a copy in the project folder.
 
 ### Create a Project Archive Folder
 
-[ ] Work through Exercise 7.3: Create an Archive Folder.
+[ ] Create an Archive Folder.
 
 [ ] Put the Archive folder in the project folder.
 
 ### Create a Project-Level README File
 
-[ ] If you haven’t done so already, work through Exercise 2.2: Project-Level README.txt.
+[ ] If you haven’t done so already, write a Project-Level README.txt.
 
 [ ] Store a copy of the README file with the data.
 
@@ -92,7 +92,7 @@ tell that you have data in a proprietary file type if you lose access to the dat
 when you lose access to the software. When data is in a proprietary file type,
 it’s always a good idea to copy the data into a more common, open file type as a
 backup; you may lose a bit of functionality, but it’s better to have a backup than
-to not have your data at all! This exercise works through identifying possible
+to not have your data at all! This challenge works through identifying possible
 alternative file types for the data’s proprietary file type before instructing you to
 make a copy of the data in the new file type.
 
@@ -157,7 +157,7 @@ time by easily finding what you need in the Archive folder.
 
 ### Create an Archive Folder
 
-This exercise consists of a checklist of the key documents that
+This challenge consists of a checklist of the key documents that
 are likely to be most useful in a research project archive. Create a separate folder
 within the larger project folder (or in a highly visible place within the storage
 system) labelled “Archive”. Copy – do not move – the files on this checklist into
@@ -237,8 +237,8 @@ work through the extended version of this exercise, the Data Departure Checklist
 
 ### Retain Copies of Data that You Have Permission to Keep
 
-[ ] If you have not done so already, work through Exercise 5.2: Determine Data
-Stewardship to determine what data you may retain
+[ ] If you have not done so already, under Data Stewardship, determine what data you 
+may retain
 
 [ ] Identify and keep pertinent research data from personal devices
 

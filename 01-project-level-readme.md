@@ -1,7 +1,7 @@
 ---
 title: 'Project-Level README.txt'
 teaching: 10
-exercises: 2
+exercises: 1
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 

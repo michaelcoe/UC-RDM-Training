@@ -2,6 +2,10 @@
 title: Setup
 ---
 
+The lessons herein are based on the work done by Kristin Briney in "The Research
+Data Management Workbook[^1]
+
+
 ## What is Research Data Management (RDM)
 
 RDM involves practices and choices that simplify the process of finding, comprehending, 
@@ -46,4 +50,4 @@ data sharing policy
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. https://doi.org/10.7907/z6czh-7zx60

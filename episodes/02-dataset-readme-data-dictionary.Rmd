@@ -1,6 +1,6 @@
 ---
 title: 'Dataset README and Data Dictionary'
-teaching: 10
+teaching: 30
 exercises: 2
 ---
 
@@ -22,13 +22,9 @@ exercises: 2
 ## Introduction
 
 A data-level README (DLR) describes the dataset, the file structure, and the file naming scheme. 
-Unlike a DLR, a data dictionary describes a single data file. Think of a data dictionary as a 
-translator for a foreign language. It explains the meaning of each word (variable) in a dataset, 
-making it understandable to others.
+A DLR is not the same as a data dictionary, as a data dictionary only describes a single data file. Think of a data dictionary as a translator for a foreign language. It explains the meaning of each word (variable) in a dataset, making it understandable to others.
 
-Let's illustrate the differences between a DLR and a data dictionary by using an example project.
-The following is a simple file structure for our project with ```folder1``` being a single dataset
-within our project.
+Let's illustrate the differences between a DLR and a data dictionary by using an example project. The following is a simple file structure for our project with ```folder1``` being a single dataset within our project.
 
 ```
 project
@@ -49,25 +45,17 @@ project
 |        |    file112_dictionary.txt
 ```
 
-We see from the example project that there is a PLR under the folder ```project``` and a DLR in the top
-level of the first dataset, signified by ```folder1```.
+We see from the example project that there is a PLR under the folder ```project``` and a DLR in the top level of the first dataset, signified by ```folder1```.
 
 ## Dataset-level README (DLR)
 
-A DLR describes the data in each folder. Think of a researcher that might pick up your data repository
-for the first time. They are looking for a certain dataset that is described by the files under ```subfolder1```.
-The researcher will have two options here: they can open data or data dictionary in each folder to see what type
-of data is housed within, or they can look at the DLR that describes which data is in each folder. For an example
-dataset, you can look at this one on figshare: [example dataset](https://doi.org/10.26021/canterburynz.25621830.v1).
+A DLR describes the data in each folder. Think of a researcher that might download your data repository for the first time. They are looking for a certain dataset that is described by the files under ```subfolder1```. The researcher will have two options here: they can open each data set/data dictionary in each folder to see what type of data is housed within, or they can look at the DLR that describes which data is in each folder. For an example dataset, you can look at this one on figshare: [example dataset](https://doi.org/10.26021/canterburynz.25621830.v1).
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-For the above folder structure, the dataset starts with ```folder1``` and all folders within. The data concerns
-performance metrics of autonomous underwater vehicles (AUVs). Assume that ```subfolder1``` contains reference data 
-from the following reference:
+For the above folder structure, the dataset starts with ```folder1``` and all folders within. The data concerns performance metrics of autonomous underwater vehicles (AUVs). Assume that ```subfolder1``` contains reference data from the following reference:
 
-Michael Coe, Stefanie Gutschmidt, Cost of Transport is not the whole story — A review, Ocean Engineering,
-Volume 313, Part 1, 2024, https://doi.org/10.1016/j.oceaneng.2024.119332.
+Michael Coe, Stefanie Gutschmidt, Cost of Transport is not the whole story — A review, Ocean Engineering, Volume 313, Part 1, 2024, https://doi.org/10.1016/j.oceaneng.2024.119332.
 
 ```file011.txt``` is text responses for a survey pertaining to people's views of AUVs.
 
@@ -81,9 +69,7 @@ Volume 313, Part 1, 2024, https://doi.org/10.1016/j.oceaneng.2024.119332.
 
 ::::::::::::::::::::::::::::::::::::: solution 
 
-This example solution is written for a text (.txt) format, but could easily be used for a markdown (.md).
-Both of these formats can be open universally. Note that your solution can be different and this is just
-an example.
+This example solution is written for a text (.txt) format, but could easily be used for a markdown (.md). Both of these formats can be open universally. Note that your solution can be different and this is just an example.
 
 --------------------------------------------------------------------------------------------------------
 
@@ -94,9 +80,6 @@ file011.txt contains text responses of people view of AUVs used to generate figu
 file012.csv contains new energy requirements for AUVs used to generate figure 2
 
 subfolder2 houses all the reference data from the following reference:
-  
-Michael Coe, Stefanie Gutschmidt, Cost of Transport is not the whole story — A review, Ocean Engineering, 
-Volume 313, Part 1, 2024, https://doi.org/10.1016/j.oceaneng.2024.119332.
 
 file111.csv is data from the reference on the speed of different AUV platforms used in the generation of 
 figure 3.
@@ -108,13 +91,7 @@ figure 2.
 
 ## Data Dictionary
 
-Ideally, a spreadsheet is formatted with a row of variable names
-at the top, followed by rows of data going down. This makes easy for data to be
-used in any data analysis software (interoperability is a good thing) but makes
-it impossible to document a spreadsheet within the file itself. For this reason,
-it’s useful to create a data dictionary to describe the spreadsheet so that others
-can interpret the data. A data dictionary describes the variables in a spreadsheet, 
-aiding in data interpretation. It should include:
+Ideally, a spreadsheet is formatted with a row of variable names at the top, followed by rows of data going down. This makes easy for data to be used in any data analysis software (interoperability is a good thing) but makes it impossible to document a spreadsheet within the file itself. For this reason, it’s useful to create a data dictionary to describe the spreadsheet so that others can interpret the data. A data dictionary describes the variables in a spreadsheet, aiding in data interpretation. It should include:
 
 - Variable name
 - Variable description
@@ -127,7 +104,7 @@ aiding in data interpretation. It should include:
 You can download a [blank example dictionary](files/Example_DD.txt). ***Note:*** that this can be 
 formatted in a spreadsheet for multiple variables or formatted for multiple variables in the text file.
 
-The following callout is an example of a data dictionary.
+The following is an example of a data dictionary.
 
 ::::::::::::::::::::::::::::::::::::: callout 
 
@@ -145,9 +122,7 @@ The following callout is an example of a data dictionary.
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-Let's assume that we have a csv where the first row is all the variable names and each row after is a data point.
-In keeping with our previous challenge, the first three variables are t, L, and U which correspond to time, length,
-and speed. How would you write a data dictionary for these three variables?
+Let's assume that we have a csv where the first row is all the variable names and each row after is a data point. In keeping with our previous challenge, the first three variables are t, L, and U which correspond to time, length, and speed. How would you write a data dictionary for these three variables?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

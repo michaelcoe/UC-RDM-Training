@@ -1,6 +1,6 @@
 ---
 title: 'File Orgainization and Naming'
-teaching: 10
+teaching: 30
 exercises: 2
 ---
 

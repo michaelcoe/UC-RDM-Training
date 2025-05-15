@@ -1,19 +1,21 @@
 ---
 title: 'Ending the Research Project'
-teaching: 10
+teaching: 30
 exercises: 4
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using R Markdown and `{sandpaper}`?
+- How do you prepare data for future use?
+- What happens to your data when you separate from your organization?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- Understand how to convert your files to non-proprietary types
+- Understand your organizations off-boarding data policies
+- Understand how to off-board your data if your organization doesn't have defined policies
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -35,13 +37,7 @@ administrator to work through together, is also available[^1].
 
 ## Prepare Data for Future Use
 
-The end of a project is a good time to prepare data for potential
-future reuse, as you still know the important details about the data to record
-and have access to any software used to create the data. This checklist challenge
-walks you through steps to gather your data into a central place and document
-the project. Working through the checklist results in project data being in one
-central location, well documented, and organized and formatted in a way to make
-future reuse easier.
+This checklist challenge walks you through steps to gather your data into a central place and document the project. Working through the checklist results in project data being in one central location, well documented, and organized and formatted in a way to make future reuse easier.
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
@@ -88,10 +84,10 @@ the next several years.
 
 Data is often stored in a file type that can only be opened by
 specific, costly software – this is referred to as a “proprietary file type.” You can
-tell that you have data in a proprietary file type if you lose access to the data
-when you lose access to the software. When data is in a proprietary file type,
-it’s always a good idea to copy the data into a more common, open file type as a
-backup; you may lose a bit of functionality, but it’s better to have a backup than
+tell that you have data is in a proprietary file type if you lose access to the data
+when you lose access to the software. 
+
+When data is in a proprietary file type, it’s always a good idea to copy the data into a more common, open file type as a backup; you may lose a bit of functionality, but it’s better to have a backup than
 to not have your data at all! This challenge works through identifying possible
 alternative file types for the data’s proprietary file type before instructing you to
 make a copy of the data in the new file type.
@@ -218,9 +214,9 @@ Adapted from[^3].
 
 :::::::::::::::::::::::::::::::::::::
 
-## Serpate from the institution
+## Serpate from the Organization
 
-Researchers regularly leave institutions in order to take new jobs.
+Researchers regularly leave organizations in order to take new jobs.
 For how common this occurrence is, it represents a critical transition during
 which data may be lost. This checklist enumerates a number of important steps
 that researchers can take to ensure that they retain the appropriate data yet
@@ -228,7 +224,7 @@ leave behind what belongs to the institution.
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-### Seperating from your Institution
+### Seperating from your Organization
 
 The researcher leaving the institution should work through this
 checklist to ensure they keep the proper information while returning what does
@@ -296,10 +292,10 @@ page, lab website, mailing lists, or social media)
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- Document your data for future use
+- Convert any proprietary data types to more open data types where possible
+- Create an archive folder of your most important data that you can take with you
+- Make sure you retain copies of the data you have permission to keep when leaving your organization
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

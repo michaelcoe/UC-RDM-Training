@@ -22,7 +22,9 @@ exercises: 2
 
 ## Introduction
 
-FAIR (Findable, Accessible, Interoperable, and Re-usable) principles are designed to make research data more discoverable, both by humans and machines. FAIR principles can be applied to digital data from any discipline. CARE (Collective benefit, Authority to control, Responsibility, and Ethics) principles are people and purpose-oriented and reflect the role of data in advancing indigenous innovation and self-determination. Throughout this section, we will go into detail about FAIR and CARE and provide some practical steps to apply these principles to your research data.
+FAIR (Findable, Accessible, Interoperable, and Re-usable) principles are designed to make research data more discoverable, both by humans and machines. FAIR principles can be applied to digital data from any discipline.
+
+CARE (Collective benefit, Authority to control, Responsibility, and Ethics) principles are people and purpose-oriented and reflect the role of data in advancing indigenous innovation and self-determination. Throughout this section, we will go into detail about FAIR and CARE and provide some practical steps to apply these principles to your research data.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
@@ -51,7 +53,7 @@ Working towards making research data more FAIR provides many benefits including:
 To make research data findable, publish the data (or a metadata-only record) with as much research metadata as possible. Most research data publishing platforms provide you with a persistent identifier, such as a [Digital Object Identifier](https://www.doi.org/the-identifier/what-is-a-doi/), which you can use to cite or share you work.
 
 ### Accessible
-To make your research data more accessible, ensure it can be downloaded over the internet from the publishing platform it is hosted on. Consider using a publishing platform that supports API (Application Programming Interface) access to make it easier for machines and databases to harvest the research data or it's metadata.
+To make your research data more accessible, ensure it can be downloaded over the internet from the publishing platform it is hosted on. As with the previous episode, this involves data with the proper "rawness" in order to reproduce results and the repository size should be as small as possible to facilitate download and storage. Consider using a publishing platform that supports API (Application Programming Interface) access to make it easier for machines and databases to harvest the research data or it's metadata.
 
 ### Interoperable
 To make research data interoperable, use community-accepted languages, [formats](https://ardc.edu.au/resources/community-endorsed-data-standards/), and [vocabularies](https://ardc.edu.au/resource/vocabularies-and-research-data-2/) in the data and metadata. Metadata should reference and describe relationships to other data, metadata, and information through the use of [identifiers](https://ardc.edu.au/resources/working-with-data/citation-identifiers/).
@@ -69,24 +71,26 @@ Thinking about your research data. What are some easy practical steps to make yo
 - publish your research data in a publicly accessible repository when possible
 - mint a persistent identifier for your research data
 - use community accepted language in data and metadata
+- specify the license and provenance for your research data.
+- include metadata and README files.
 
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Why use CARE?
-CARE stands for
+CARE principles are developed by the [Global Indigenous Data Alliance](https://www.gida-global.org/) stands for
 
 - **C**ollective benefit
 - **A**uthority of control
 - **R**esponsibility
 - **E**thics
 
-Care principles are meant to complement FAIR principles by encouraging the centering of both people and purpose in the sharing of research data. CARE principles are developed by the [Global Indigenous Data Alliance](https://www.gida-global.org/) because FAIR principles focus on increased data sharing while ignoring power differentials and historical contexts. This creates a tension for Indigenous Peoples who are asserting greater control over the use and application of their data[^1].
+CARE principles are meant to complement FAIR principles by encouraging the centering of both people and purpose in the sharing of research data. CARE principles were developed because FAIR principles focus on increased data sharing while ignoring Indigenous Data sovereignty or historical contexts around research data pertaining to Indigenous Peoples. This creates a tension for Indigenous peoples who are asserting greater control over the use and application of their data[^1].
 
 ### Indigenous Data Sovereignty (IDSoV) and Governance (IDGov) Initiatives
-Indigenous Data Sovereignty (IDSov) asserts Indigenous Peoples' rights to govern the creation, collection, ownership, and application of the data about, from, or connected to Intellectual Property[^2]. 
+Indigenous Data Sovereignty (IDSov) revolves around Indigenous Peoples' rights to govern the creation, collection, ownership, and application of the data about, from, or connected to Intellectual Property[^2]. 
 
-The United Nations supports the Indigenous rights over their data as outlined in the United Nations Declarations on the Rights of Indigenous Peoples[^3]. 
+The United Nations supports Indigenous rights over their data as outlined in the United Nations Declarations on the Rights of Indigenous Peoples[^3]. 
 
 The Institute of Electrical and Electronics Engineers (IEEE) Indigenous Data Working Group has put out a recommended practice for provenence of Indigenous Peoples Data. The Recommended Practice for the Provenance of Indigenous Peoples' Data establishes a common set of parameters for the provenance of Indigenous Peoples' data. This Recommended Practice supports appropriate disclosure of Indigenous Peoples' relationships and/or links to all data. Provenance of Indigenous Peoples' Data includes information that facilitates Indigenous Peoples' governance, decision-making, participation, collaboration, and engagement in and for current and future uses of Indigenous Peoples' data[^4].
 
@@ -94,15 +98,14 @@ The Institute of Electrical and Electronics Engineers (IEEE) Indigenous Data Wor
 The Indigenous Data Governance and Universities Communiqué[^5] offers resources to assist practicing IDSov. The following are some country specific data from the Communiqué.
 
 ### Indigenous Metadata Bundle
-Indigenous metadata provides critical organisation and structure for Indigenous Peoples’ data to be findable, 
-accessible, interoperable, and with proper attribution, which enables governance, decision-making, and cultural 
+Indigenous metadata provides critical organisation and structure for Indigenous Peoples’ data to be FAIR and with proper attribution, which enables governance, decision-making, and cultural 
 authority by Indigenous Peoples. Indigenous metadata guides the inclusion of cultural context, data protection, and 
 ownership for Indigenous rights holders. This helps recognize, refine, and define Indigenous Peoples’ relationships 
 with their data. The metadata bundle is available for download here: [https://indigenousdatalab.org/3006-2/](https://indigenousdatalab.org/3006-2/)
 
 ### First Nations Information Governance Committee (FNIGC)
 Developer of Ownership, Control, Access, and Possession (OCAP®) Principles and the First Nations Data 
-Governance Strategy (FNDGS). The FNDGS calls for embedding First Nations knowledges and competencies into 
+Governance Strategy (FNDGS). The FNDGS calls for embedding First Nations knowledge and competencies into 
 leading-edge information management and information technology at national and regional levels to support First 
 Nations as rights holders through improved data stewardship across the data lifecycle. More information can be found on the FNIGC website: [A First Nations Data Governance Strategy](https://fnigc.ca/wp-content/uploads/2020/09/FNIGC_FNDGS_report_EN_FINAL.pdf)  
 

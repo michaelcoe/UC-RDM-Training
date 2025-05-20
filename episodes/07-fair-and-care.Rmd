@@ -28,7 +28,7 @@ CARE (Collective benefit, Authority to control, Responsibility, and Ethics) prin
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-This episode should be pretty straightforward. There may be questions around the practical implementations.
+This episode should be pretty straightforward. There may be questions around the practical implementations. CARE may only apply to certain types of research data, but it's important for the researchers to be aware that these exist.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

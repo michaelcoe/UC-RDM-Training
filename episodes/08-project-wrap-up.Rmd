@@ -37,6 +37,12 @@ work through so that critical data does not get lost in the transition. A fuller
 version of this checklist, intended for both the departing personnel and a project
 administrator to work through together, is also available[^2].
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+We will all end up ending our project and having a good plan for your research data ensures it is available for researchers that might take up the project at a later time or use your data for their own research.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Prepare Data for Future Use
 
 This checklist challenge walks you through steps to gather your data into a central place and document the project. Working through the checklist results in project data being in one central location, well documented, and organized and formatted in a way to make future reuse easier.

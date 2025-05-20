@@ -36,17 +36,17 @@ Data files living on a computer often need extra documentation
 for someone to understand what research they correspond to. In particular, it
 is useful to record the most basic project information and store it in the top level
 folder of each research project. The top level README discussed in this episode only 
-pertains to the project-level data. 
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: callout
-
-A README file is like the instruction manual for assembling furniture. It provides the necessary context and guidance to understand and use the accompanying pieces (digital content). A project can contain multiple datasets, and each dataset should have it's own associated documentation describing the data. Episode 2 gives some possible methods for documenting your data on a dataset level.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+pertains to the project-level data.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Important here is the fact that both the project and each dataset should be documented in some way.
+Important here is the fact that both the project and data should be documented in some way.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+A README file is like the instruction manual for assembling furniture. It provides the necessary context and guidance to understand and use the accompanying pieces (digital content). A project can contain multiple datasets, and the data should have it's own associated documentation. Episode 2 gives some possible methods for documenting your data on a dataset level.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

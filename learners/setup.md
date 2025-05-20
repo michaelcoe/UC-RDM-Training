@@ -2,8 +2,8 @@
 title: Setup
 ---
 
-The lessons herein are based on the work done by Kristin Briney in "The Research
-Data Management Workbook"[^1]
+The lessons herein are based on the work done by Kristin Briney in "[The Research
+Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1]
 
 
 ## What is Research Data Management (RDM)
@@ -34,7 +34,7 @@ to it after a long period of time.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Why do RDM
+## Why do RDM?
 A short YouTube video about a RDM horror story is here: [Research Data Snafu](https://www.youtube.com/watch?v=N2zK3sAtr-4)
 
 ::::::::::::::::::::::::::::::::::::: challenge 
@@ -71,4 +71,4 @@ data sharing policy
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. https://doi.org/10.7907/z6czh-7zx60
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. [https://doi.org/10.7907/z6czh-7zx60](https://doi.org/10.7907/z6czh-7zx60)

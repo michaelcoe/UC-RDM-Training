@@ -27,6 +27,12 @@ introduce you to two useful areas: A living Data Management Plan and the roles a
 responsibilities around data management with research collaborators, known as Data
 Stewardship.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Emphasize that a DMP is a living document and can be changed at a later time. Also, you don't need to be able to answer all the questions right away, but the important parts are to the person associated with the data, what type of data it is, where it will be stored, and how long to store it.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Living Data Management Plan (DMP)
 
 Many researchers are aware of the two-page data management

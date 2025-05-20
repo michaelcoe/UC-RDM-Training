@@ -24,6 +24,11 @@ This data Documentation episode based on Chapter 2 of "[The Research Data Manage
 ## Introduction
 
 This episode describes two possible ways to document your Research Data: A data-level README (DLR) and a data dictionary. The purpose is to get you thinking of how to document your particular data.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Should make the distinction between the overall project and the data clear.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: callout
 

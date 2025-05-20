@@ -28,6 +28,12 @@ Sharing research data has become a common expectation within
 scholarly research. However, the landscape of data repositories is still uneven
 and many researchers are still learning best practices for data sharing.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Many publishers and funders are now requiring researchers to share their data.  Picking an appropriate repository and understanding how to package research data will help in this requirement.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Pick a Data Repository
 
 It can be difficult to know where to share research data as so

@@ -20,6 +20,8 @@ exercises: 1
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This data Documentation episode based on Chapter 6 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney.
+
 ## Introduction
 
 Sharing research data has become a common expectation within

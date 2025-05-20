@@ -21,6 +21,8 @@ exercises: 3
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This data Documentation episode based on Chapter 4 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney.
+
 ## Introduction
 
 Research data needs to be stored and backed up reliably so that
@@ -169,3 +171,4 @@ files!
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. [https://doi.org/10.7907/z6czh-7zx60](https://doi.org/10.7907/z6czh-7zx60).

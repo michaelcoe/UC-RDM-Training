@@ -19,6 +19,8 @@ exercises: 4
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This data Documentation episode based on Chapter 7 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney.
+
 ## Introduction
 
 The end of a project is a key time to perform data management activities in
@@ -33,7 +35,7 @@ This episode also covers project wrap up in the form of separating from your
 institution. This checklist challenge for the departing researcher is important to
 work through so that critical data does not get lost in the transition. A fuller
 version of this checklist, intended for both the departing personnel and a project
-administrator to work through together, is also available[^1].
+administrator to work through together, is also available[^2].
 
 ## Prepare Data for Future Use
 
@@ -46,7 +48,7 @@ This checklist challenge walks you through steps to gather your data into a cent
 Gather all of the data from a project and work through the
 checklist to organize and document the data for future reuse. This challenge
 refers to several other challenges in the Workbook that should be completed during
-this process, if they have not been already. The following is adapted from[^2].
+this process, if they have not been already. The following is adapted from[^3].
 
 ### Prepare Data
 
@@ -160,7 +162,7 @@ system) labelled “Archive”. Copy – do not move – the files on this check
 the Archive folder. Add copies other important research documents, as needed.
 Remember, the Archive folder does not need to be comprehensive, so focus on
 the subset of files that are most likely to be reused or referenced in the future.
-Adapted from[^3].
+Adapted from[^4].
 
 ### Project Documentation
 
@@ -229,7 +231,7 @@ leave behind what belongs to the institution.
 The researcher leaving the institution should work through this
 checklist to ensure they keep the proper information while returning what does
 not belong to them. The researcher and project administrator may also jointly
-work through the extended version of this exercise, the Data Departure Checklist[^4].
+work through the extended version of this exercise, the Data Departure Checklist[^5].
 
 ### Retain Copies of Data that You Have Permission to Keep
 
@@ -299,14 +301,12 @@ page, lab website, mailing lists, or social media)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-[^1]: Abigail Goben and Kristin A. Briney. Data Departure Checklist, August 2023.
-URL [https://doi.org/10.7907/h314-4x51](https://doi.org/10.7907/h314-4x51).
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. [https://doi.org/10.7907/z6czh-7zx60](https://doi.org/10.7907/z6czh-7zx60).
 
-[^2]: Kristin A. Briney. Project Close-Out Checklist for Research Data, May 2020b.
-URL [https://doi.org/10.7907/yjph-sa32](https://doi.org/10.7907/yjph-sa32).
+[^2]: Abigail Goben and Kristin A. Briney. Data Departure Checklist, August 2023. [https://doi.org/10.7907/h314-4x51](https://doi.org/10.7907/h314-4x51).
 
-[^3]: Kristin A. Briney. Project Close-Out Checklist for Research Data, May 2020b.
-URL [https://doi.org/10.7907/yjph-sa32](https://doi.org/10.7907/yjph-sa32).
+[^3]: Kristin A. Briney. Project Close-Out Checklist for Research Data, May 2020b. [https://doi.org/10.7907/yjph-sa32](https://doi.org/10.7907/yjph-sa32).
 
-[^4]: Abigail Goben and Kristin A. Briney. Data Departure Checklist, August 2023.
-URL [https://doi.org/10.7907/h314-4x51](https://doi.org/10.7907/h314-4x51).
+[^4]: Kristin A. Briney. Project Close-Out Checklist for Research Data, May 2020b. [https://doi.org/10.7907/yjph-sa32](https://doi.org/10.7907/yjph-sa32).
+
+[^5]: Abigail Goben and Kristin A. Briney. Data Departure Checklist, August 2023. [https://doi.org/10.7907/h314-4x51](https://doi.org/10.7907/h314-4x51).

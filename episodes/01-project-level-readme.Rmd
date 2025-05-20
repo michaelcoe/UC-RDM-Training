@@ -24,6 +24,7 @@ Download the [Example README.txt](files/Example_PLR.txt)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This Project Level README episode based on Chapter 2 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney.
 
 ## Introduction
 
@@ -39,17 +40,13 @@ pertains to the project-level data.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: callout
 
-A project can contain multiple datasets, and each dataset should have it's own associated 
-README file describing that data. A README file is like the instruction manual for assembling 
-furniture. It provides the necessary context and guidance to understand and use the accompanying 
-pieces (digital content).
+A README file is like the instruction manual for assembling furniture. It provides the necessary context and guidance to understand and use the accompanying pieces (digital content). A project can contain multiple datasets, and each dataset should have it's own associated documentation describing the data. Episode 2 gives some possible methods for documenting your data on a dataset level.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Important here is the fact that both the project and each dataset should have it's own
-associated README file.
+Important here is the fact that both the project and each dataset should be documented in some way.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -72,12 +69,17 @@ Pick a research project and answer the included questions.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+While this episode focused on PLR, it is useful to document the individual datasets. Research Data Documentation Methods[^2] summarizes many documentation methods that can be employed for research data. 
+
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 - README files are crucial for understanding your data, especially a year later.
 - The PLR contains is in the top level folder of the project and contains basic
 data about the project.
-- Project would have one PLR and a DLR for all datasets.
+- Project would have one PLR and documentation for all datasets.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. [https://doi.org/10.7907/z6czh-7zx60](https://doi.org/10.7907/z6czh-7zx60).
+
+[^2]: Briney, Kristin A. 2022. “Research Data Documentation Methods”. November 22. [https://doi.org/10.7907/rt4k-2d76](https://doi.org/10.7907/rt4k-2d76).

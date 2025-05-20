@@ -18,6 +18,8 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This data Documentation episode based on Chapter 5 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney.
+
 ## Introduction
 
 While this whole training encompasses data management activities, this section will
@@ -186,3 +188,4 @@ it moves through the research process, and who will oversee the data management.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. [https://doi.org/10.7907/z6czh-7zx60](https://doi.org/10.7907/z6czh-7zx60).

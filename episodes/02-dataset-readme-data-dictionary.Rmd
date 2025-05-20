@@ -19,10 +19,19 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This data Documentation episode based on Chapter 2 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney. There are many ways to document research data and more examples can be found in "[Research Data Documentation Methods](https://doi.org/10.7907/rt4k-2d76)"[^2].
+
 ## Introduction
 
-A data-level README (DLR) describes the dataset, the file structure, and the file naming scheme. 
-A DLR is not the same as a data dictionary, as a data dictionary only describes a single data file. Think of a data dictionary as a translator for a foreign language. It explains the meaning of each word (variable) in a dataset, making it understandable to others.
+This episode describes two possible ways to document your Research Data: A data-level README (DLR) and a data dictionary. The purpose is to get you thinking of how to document your particular data.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+Research Data is the actual data associated with the overall project which should be documented with a project-level README.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+A DLR describes the dataset, the file structure, and the file naming scheme. A DLR is not the same as a data dictionary, as a data dictionary only describes a single data file. Think of a data dictionary as a translator for a foreign language. It explains the meaning of each word (variable) in a dataset, making it understandable to others.
 
 Let's illustrate the differences between a DLR and a data dictionary by using an example project. The following is a simple file structure for our project with ```folder1``` being a single dataset within our project.
 
@@ -150,3 +159,6 @@ dataset.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. [https://doi.org/10.7907/z6czh-7zx60](https://doi.org/10.7907/z6czh-7zx60).
+
+[^2]: Briney, Kristin A. 2022. “Research Data Documentation Methods”. November 22. [https://doi.org/10.7907/rt4k-2d76](https://doi.org/10.7907/rt4k-2d76).

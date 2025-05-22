@@ -125,13 +125,27 @@ need a second backup that:
     - meets your needed level of security,
     - is reliable/managed by someone you trust.
 
+## Storage at University of Canterbury
+
+UC provides various research data storage options for staff and students. Our eResearch Consultancy services for advice on the most appropriate storage solution throughout the Research Lifecycle. ServiceNow requests for research data storage must contain basic information about the project, researchers involved, and data. Luckily, these are all addressed in the Data Management Plan, which is covered in the next episode. Below is a table of the storage options available at UC. You can refer to the [Data Classification](https://www.canterbury.ac.nz/research/eresearch-at-canterbury/research-data-storage/data-classification) page on our website for information about the data classification column.
+
+| Storage | Storage Limit | Collaboration Available | Data Classification Suitability |
+| ---- | :--- |  :--- | :--- |
+| Research Drive | 1 TB (Additional on request) | Internal | In-confidence, Sensitive, Special |
+| Dropbox Enterprise (UC) | Unlimited (seats are limited) | Internal and External | In-confidence, Sensitive |
+| Institutional OneDrive | 1 TB | Internal and External | In-Confidence |
+| Institutional SharePoint (Vault) / MS Teams | 5 TB (Additional on request) | Internal and External | In-confidence, Sensitive |
+| P Drive | 50 GB (Additional on request) | Not Available | Not Recommended |
+| Local Machine / USB | N/A | Not Available | Not Recommended |
+| Figshare | 1 TB | Internal and External | Public |
+
+
 ::::::::::::::::::::::::::::::::::::: challenge
 
 **Pick your storage and backup systems**
 
 *Example: My primary storage will be my computer with added security restrictions.
-I will use Time Machine as my first automatic backup and institutional
-Box, which is controlled access, as my second backup because it is remote.*
+I will use Time Machine as my first automatic backup and Research Drive, which is controlled access, as my second backup because it is remote.*
 
 :::::::::::::::::::::::::::::::::::::
 

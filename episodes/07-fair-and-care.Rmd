@@ -103,17 +103,17 @@ authority by Indigenous Peoples. Indigenous metadata guides the inclusion of cul
 ownership for Indigenous rights holders. This helps recognize, refine, and define Indigenous Peoples’ relationships 
 with their data. The metadata bundle is available for download here: [https://indigenousdatalab.org/3006-2/](https://indigenousdatalab.org/3006-2/)
 
-### First Nations Information Governance Committee (FNIGC)
-Developer of Ownership, Control, Access, and Possession (OCAP®) Principles and the First Nations Data 
-Governance Strategy (FNDGS). The FNDGS calls for embedding First Nations knowledge and competencies into 
-leading-edge information management and information technology at national and regional levels to support First 
-Nations as rights holders through improved data stewardship across the data lifecycle. More information can be found on the FNIGC website: [A First Nations Data Governance Strategy](https://fnigc.ca/wp-content/uploads/2020/09/FNIGC_FNDGS_report_EN_FINAL.pdf)  
-
 ### Māori Data Governance Model
 The Māori Data Governance Model is designed by Māori data experts for use across the Aotearoa (New Zealand) 
 public service. Māori data is a taonga[^6] that requires culturally grounded models of protection and care. The Model 
 provides guidance for the system-wide governance of Māori data, consistent with the Government’s responsibilities 
 under te Tiriti o Waitangi. The Māori Data Governance Model can be found here: [https://www.kahuiraraunga.io/](https://www.kahuiraraunga.io/)
+
+### First Nations Information Governance Committee (FNIGC)
+Developer of Ownership, Control, Access, and Possession (OCAP®) Principles and the First Nations Data 
+Governance Strategy (FNDGS). The FNDGS calls for embedding First Nations knowledge and competencies into 
+leading-edge information management and information technology at national and regional levels to support First 
+Nations as rights holders through improved data stewardship across the data lifecycle. More information can be found on the FNIGC website: [A First Nations Data Governance Strategy](https://fnigc.ca/wp-content/uploads/2020/09/FNIGC_FNDGS_report_EN_FINAL.pdf)  
 
 ### Maiam nayri Wingara
 In Australia, Aboriginal and Torres Strait Islander people expect enactment of their IDSov and IDGov principles. 

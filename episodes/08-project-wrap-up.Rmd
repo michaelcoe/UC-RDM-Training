@@ -43,6 +43,32 @@ We will all end up ending our project and having a good plan for your research d
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## When leaving UC
+
+When leaving UC, your UC account is given an expiration date. It is important to understand what will happen to your data once your UC account is decommissioned.
+
+The following is a basic checklist specific to UC cloud storage:
+- Any “corporate” UC data should be moved to appropriate UC storage 
+- Data you currently share with UC colleagues and to which they will still need access to after your departure needs to be transferred to them. 
+- Remove your personal data
+
+### P-Drive
+
+You will no longer have access to your P-Drive.
+
+### Research Drive
+
+You will no longer be able to access your folders on the Research Drive, but the data will remain for as long as is outlined in the associated DMP.
+
+### OneDrive
+
+Your UC OneDrive will be deleted and all data stored will be gone. You should back up your data to an appropriate storage before leaving the university.
+
+### Dropbox
+
+Similar to OneDrive, your data will be deleted. In the case of Dropbox, you have the option to transfer UC enterprise Dropbox to your personal Dropbox account. If you are leaving UC, you will want to change the email address associated to the account as you will lose access once your UC account is decommissioned. You may be able to directly join your new institution that way if they also offer Dropbox storage.
+
+
 ## Prepare Data for Future Use
 
 This checklist challenge walks you through steps to gather your data into a central place and document the project. Working through the checklist results in project data being in one central location, well documented, and organized and formatted in a way to make future reuse easier.

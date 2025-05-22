@@ -43,15 +43,23 @@ current data practices. A DMP is a useful touchstone for understanding
 where data lives, how it’s labelled, how it moves through the research process,
 and who will oversee the data management.
 
-For DMPs, your oganization might have a specific tool, such as the popular [DMPTool](https://dmptool.org/). This is a free service for researchers that supports SSO sign on by participating organizations. The internet has many resources and videos going over how to use DMPTool. The following link is 13 min. video by [Carnegie Mellon University Libraries](https://www.youtube.com/watch?v=HWdmbXna2xs)
+For DMPs, UC has partnered with the popular [DMPTool](https://dmptool.org/). This is a free service for researchers that supports SSO sign on by participating organizations. The internet has many resources and videos going over how to use DMPTool. The following link is 13 min. video by [Carnegie Mellon University Libraries](https://www.youtube.com/watch?v=HWdmbXna2xs)
 showing DMPTool and how to fill out the forms is provided.
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-Pick a project and answer the following questions to build your
+Go to [DMPTool](https://dmptool.org/) and sign in with your Canterbury e-mail. This should take you to a SSO page where you can input your credentials. From here, you will be able to link your Canterbury account with DMPTool.
+
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+Start a DMP in DMPTool. Pick a project and answer the following questions to build your
 living DMP. This DMP may be changed at any time to improve practices. If
 you are doing collaborative research, work through this exercise with your collaborators
 to agree on shared conventions. Feel free to use your organizations supported DMP tool if there is one.
+
+**Note:** If you don't have a project in mind at the moment, you can create a test project by checking the appropriate box at the creation of the DMP in DMPtool.
 
 **Write a short summary of the project this DMP is for:**
 

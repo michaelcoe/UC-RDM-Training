@@ -38,15 +38,17 @@ Many publishers and funders are now requiring researchers to share their data.  
 
 It can be difficult to know where to share research data as so
 many sharing platforms are available. Current guidance is to deposit data in
-data repository that will give you a DOI or similar permanent identifier. A popular generalist repository for research data is [Figshare](https://figshare.com/). Note that there may be subject specific repositories that are a better fit for your research data. The following exercise guides you through the process of 
-picking a data repository, starting with repositories for very specific types of data and 
-defaulting to generalist data repositories. 
+data repository that will give you a DOI or similar permanent identifier. UC has currently offers the popular generalist repository [Figshare](https://figshare.canterbury.ac.nz/). This can have public and private repositories, but it's mostly used for publishing public data alongside journal articles. Note that there may be subject specific repositories that are a better fit for your research data. The following exercise guides you through the process of picking a data repository, starting with repositories for very specific types of data and defaulting to generalist data repositories.
 
 ![Workflow diagram for choosing a data repository[^1]. Starting at the
 top, decide is there is a known disciplinary data repository (if so, deposit data),
 a logical disciplinary data repository (if so, deposit data), an institutional data
 repository (if so, deposit data), and if none of those work pick a generalist data
 repository.](fig/Briney-repository-guidance.png){alt="Respository Workflow Diagram"}
+
+**Note:** The UC Figshare instance is only available for staff. This means that if you're a postgraduate trying to upload your data, you will need your supervisor to create the repository and upload the data, or you can talk to the subject librarians for help in setting up your repository.
+
+In cases where your data is larger than is permitted by Figshare (1 TB) or your subject specific repository, UC does have a [public folder](https://publicdata.canterbury.ac.nz/) on the Research Drive for larger data sets. You will need to request this be provisioned to you via ServiceNow.
 
 ::::::::::::::::::::::::::::::::::::: callout
 

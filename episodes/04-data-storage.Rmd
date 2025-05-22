@@ -1,12 +1,12 @@
 ---
 title: 'Data Storage'
-teaching: 10
-exercises: 2
+teaching: 15
+exercises: 3
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Where at UC would you want to store your research data?
+- Where at your organization would you want to store your research data?
 - What is the basic information you should have about where your research data is stored?
 - What is the importance of backing up your research data?
 
@@ -14,34 +14,24 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Understand the types of storage options available at UC
+- Understand the types of storage options available at your organization
 - Figure out where you will store your research data and associated metadata
 - Understand the importance of backing up your data
 - Demonstrate the ability to restore data that has been lost
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This data Documentation episode based on Chapter 4 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney.
+
 ## Introduction
 
 Research data needs to be stored and backed up reliably so that
 important data is not lost. But storage is commonly a challenge, as institutions
-don’t always offer uniform options for storage and backup. At UC, we have a few storage
-options available for your research data that are outlined in the following table:
-
-|  | Storage Limit | UC Managed | Collaboration Available | Data Classification Suitability | Location of Storage |
-| ------- | :--- | :--- | :--- | :--- | :--- |
-| Research Drive | 1 TB (Additonal storage on request) | Yes | Internal | In-confidence, Sensitive, Special | UC Campus (NZ) |
-| Dropbox Enterprise (UC) | Unlimited (seats are limited) | Yes | Internal and External | In-confidence, Sensitive | Overseas (Australia) |
-| Intitutional OneDrive | 1 TB | Yes | Internal and External | In-confidence | Overseas (Australia) |
-| Intitutional Sharepoint (Vault) / MS Teams | 5 TB (additional storage on request) | Yes | Internal and External | In-confidence, sensitive | Overseas (Australia) |
-| P Drive | 50 GB (additional storage on request) | Yes | Not Available | Not recommended | UC Campus (NZ) |
-| Local Machine or USB | variable | No | Not Available | Not Recommended | N/A |
-| Figshare | 1 TB | Yes | Internal and External | Public | Overseas (Australia) |
+don’t always offer uniform options for storage and backup. It is important to understand what the research data storage options are at your organization and to ensure that the data is backed up in cases of data loss.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Emphasize that we recommend the Research Drive for research data storage and that there is a
-ServiceNow ticket to setup a Research Drive on the Isilon.
+Emphasize the recommended storage location for research data at your organization.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -62,14 +52,13 @@ of my project.*
 so, what level of security?**
 
 *Example: My data will include some human subjects data, so my storage systems
-must have restrictions on access but it’s not medical data so they don’t have to
-be HRC compliant.*
+must have restrictions on access but it’s not medical data so they don’t have to medical data compliant.*
 
 **What storage and backup systems are available to you, such as
 through your institution, workplace, or elsewhere?**
 
 *Example: I have the following systems available to me: my computer, a Time
-Machine backup, a departmental server, institution-licensed Box account, and
+Machine backup, a departmental server, institution-licensed DropBox account, and
 Google Drive.*
 
 An example table in .txt format is provided in the following link: [Example Data Storage Table](files/Example_Data_Storage.txt)
@@ -182,3 +171,4 @@ files!
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. [https://doi.org/10.7907/z6czh-7zx60](https://doi.org/10.7907/z6czh-7zx60).

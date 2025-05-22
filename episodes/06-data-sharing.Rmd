@@ -1,7 +1,7 @@
 ---
 title: 'Data Sharing'
-teaching: 10
-exercises: 2
+teaching: 25
+exercises: 1
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -20,23 +20,29 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This data Documentation episode based on Chapter 6 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney.
+
 ## Introduction
 
-Sharing data that underlies research has become a common expectation within
+Sharing research data has become a common expectation within
 scholarly research. However, the landscape of data repositories is still uneven
 and many researchers are still learning best practices for data sharing.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Many publishers and funders are now requiring researchers to share their data.  Picking an appropriate repository and understanding how to package research data will help in this requirement.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Pick a Data Repository
 
 It can be difficult to know where to share research data as so
 many sharing platforms are available. Current guidance is to deposit data in
-data repository that will give you a DOI or similar permanent identifier. For this
-purpose, the University of Canterbury offers [Figshare](https://figshare.canterbury.ac.nz) as
-our recommended general repository. The following exercise guides you through the process of 
+data repository that will give you a DOI or similar permanent identifier. A popular generalist repository for research data is [Figshare](https://figshare.com/). Note that there may be subject specific repositories that are a better fit for your research data. The following exercise guides you through the process of 
 picking a data repository, starting with repositories for very specific types of data and 
 defaulting to generalist data repositories. 
 
-![Workflow diagram for choosing a data repository. Starting at the
+![Workflow diagram for choosing a data repository[^1]. Starting at the
 top, decide is there is a known disciplinary data repository (if so, deposit data),
 a logical disciplinary data repository (if so, deposit data), an institutional data
 repository (if so, deposit data), and if none of those work pick a generalist data
@@ -47,8 +53,7 @@ repository.](fig/Briney-repository-guidance.png){alt="Respository Workflow Diagr
 ## Repository fees
 
 Some repositories charge fees for deposit, most often for large data (500 GB or larger).
-Figshare is free to UC Researchers, but currently has a limit of 1 TB of data.
-For more information see the [UC figshare libguides](https://canterbury.libguides.com/figshare).
+Figshare, for instance, has a limit of 20 GB for it's free tier.
 
 :::::::::::::::::::::::::::::::::::::
 
@@ -81,7 +86,7 @@ to deposit.
 *Example: The database FlyBase is used for Drosophila genes and genomes. My
 genetic data will be shared there.*
 
-**3. Review the list of recommended data repositories from PLOS[^1]. 
+**3. Review the list of recommended data repositories from PLOS[^2]. 
 Is there a logical disciplinary data repository for some or all of your data?**
 
 If so, deposit some or all of your data there. Go to step 7 if you have shared all
@@ -94,17 +99,17 @@ of flies.*
 
 If so, deposit the remainder of your data there and go to step 7.
 
-*Example: University of Canterbury Figshare.
-I will deposit my microscope images in UC Figshare.*
+*Example: Institutional Figshare.
+I will deposit my microscope images in Instutional Figshare.*
 
 
-**5. Do you have a preferred generalist data repository[^2]?**
+**5. Do you have a preferred generalist data repository[^3]?**
 
 If so, deposit the remainder of your data there and go to step 7.
 
 *Example: [All data has been shared already.]*
 
-**6. Pick a generalist data repository[^3] and deposit the
+**6. Pick a generalist data repository[^4] and deposit the
 remainder of your data.**
 
 Deposit your data and go to step 7.
@@ -114,12 +119,12 @@ Deposit your data and go to step 7.
 **7. Record the permanent identifier, ideally a DOI, from each data
 deposit.**
 
-DOIs make data FAIR[^4] and aid with data sharing compliance.
+DOIs make data FAIR[^5] and aid with data sharing compliance.
 If you did not receive a permanent identifier (such as a DOI, permanent
 URL, etc.) during deposit, return to step 2 and pick a different data repository
 for your data.
 
-*Example: UC Figshare provides DOIs for all deposits; my permanent
+*Example: Figshare provides DOIs for all deposits; my permanent
 identifier is doi.org/10.22002/XXXXXXXXXXX.*
 
 :::::::::::::::::::::::::::::::::::::
@@ -131,7 +136,7 @@ and journals. While the process of depositing data into a data repository will
 vary between repositories, there are some common actions that should be taken
 to prepare data for sharing.
 
-::::::::::::::::::::::::::::::::::::: challenge
+::::::::::::::::::::::::::::::::::::: callout
 
 ## Sharing Data Checklist
 
@@ -185,7 +190,7 @@ but not all data repositories have integrated ORCID yet).
 [  ] Record all funding information that applies to the dataset.
 
 [  ] Chose a license for reuse rights. Default license is CC0 (for more information
-on CC0[^5]).
+on CC0[^6]).
 
 ### Deposit Data
 
@@ -210,7 +215,7 @@ duplicate metadata.
 
 While sharing data for a paper in a public repository is good (and sometimes required), there is 
 little guidance on what data should be uploaded. Data to include in a repository is field specific, 
-but we will present some guidelines here following the policies of the Nature Portfolio journals[^6]. 
+but we will present some guidelines here following the policies of the Nature Portfolio journals[^7]. 
 
 > Authors should provide their data at a level 'rawness' that allows it to be re-used, in alignment 
 with accepted norms within their community. It may be advantageous to release some types of data at 
@@ -231,7 +236,7 @@ Let’s suppose that we performed some Computational Fluid Dynamics (CFD) simula
 OpenFOAM. This involves setting up a case with some initial conditions, running the simulations, post-processing 
 the simulation data with a program like ParaView, and then post-processing that data with python. 
 
-Most research can be broken down into three processing stages: Pre-process, pProcess, Ppost-process. We will map the 
+Most research can be broken down into three processing stages: Pre-process, Process, post-process. We will map the 
 case study to these three as follows: 
 
 - Pre-process: generating the geometry, setting up the case files, determining which model to use, etc. 
@@ -255,59 +260,50 @@ include all the data and code generated in the post-processing step. We can comp
 pre-processing and processing steps? 
 
 Here we notice that the bulk of our data is in the processing step (~800 GB).  But we note that by running the processing 
-step with the data in the pre-processing step will generate the same data. In cases like this, we don’t need to include the 
+step with the data in the pre-processing step, the same data will be generated. In cases like this, we don’t need to include the 
 data for the processing step, only the pre-processing data. A reader can regenerate our process data if they want.  After 
-compressing all this data, we get a repository from 1 TB down to ~50 GB.  
+compressing all this data, we get a our research data from 1 TB down to ~50 GB.  
 
-A good data repository has enough data to reproduce the results. Your research data should be kept at an appropriate level 
-of ‘rawness’ that allows it to be reused, and as small as possible to facilitate easy storage and data egress.  
+::::::::::::::::::::::::::::::::::::: callout
 
-Only data that is needed to recreate the study and results should be included, and care must be taken to exclude data that 
-may not be immediately needed to reproduce the results.
+A good data repository has enough data to reproduce the results. Your research data should be kept at an appropriate level of ‘rawness’ that allows it to be reused, and as small as possible to facilitate easy storage and data egress. Only data that is needed to recreate the study and results should be included, and care must be taken to exclude data that may not be immediately needed to reproduce the results.
+
+:::::::::::::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- An important part of doing research is sharing it with others so that they can use it.
+- An important part of doing research is sharing it with others so that they can use it and reproduce your results.
 - Choose a repository that is field specific if you can, but generalist ones work too.
 - Make sure to think about what data you actual need to share with other researchers so
 that they can recreate your results (does it need to be a 4 TB dataset?)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-[^1]: PLOS ONE. Recommended Repositories, 2023. URL [https://journals.plos.org/
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. https://doi.org/10.7907/z6czh-7zx60
+
+[^2]: PLOS ONE. Recommended Repositories, 2023. URL [https://journals.plos.org/
 plosone/s/recommended-repositories](https://journals.plos.org/
 plosone/s/recommended-repositories).
-
-[^2]: NIH. Generalist Repositories, 2023. URL [https://sharing.nih.gov/datamanagement-
-and-sharing-policy/sharing-scientific-data/generalistrepositories](https://sharing.nih.gov/datamanagement-
-and-sharing-policy/sharing-scientific-data/generalistrepositories).
 
 [^3]: NIH. Generalist Repositories, 2023. URL [https://sharing.nih.gov/datamanagement-
 and-sharing-policy/sharing-scientific-data/generalistrepositories](https://sharing.nih.gov/datamanagement-
 and-sharing-policy/sharing-scientific-data/generalistrepositories).
 
-[^4]: Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle
-Appleton, Myles Axton, Arie Baak, Niklas Blomberg, Jan-Willem Boiten,
-Luiz Bonino da Silva Santos, Philip E. Bourne, Jildau Bouwman, Anthony J. Brookes, 
-Tim Clark, Mercè Crosas, Ingrid Dillo, Olivier Dumon, Scott Edmunds,
-Chris T. Evelo, Richard Finkers, Alejandra Gonzalez-Beltran, Alasdair
-J. G. Gray, Paul Groth, Carole Goble, Jeffrey S. Grethe, Jaap Heringa,
-Peter A. C. ’t Hoen, Rob Hooft, Tobias Kuhn, Ruben Kok, Joost Kok, Scott J.
-Lusher, Maryann E. Martone, Albert Mons, Abel L. Packer, Bengt Persson,
-Philippe Rocca-Serra, Marco Roos, Rene van Schaik, Susanna-Assunta
-Sansone, Erik Schultes, Thierry Sengstag, Ted Slater, George Strawn, Morris
-A. Swertz, Mark Thompson, Johan van der Lei, Erik van Mulligen,
-Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft,
-Jun Zhao, and Barend Mons. The FAIR Guiding Principles for scientific
+[^4]: NIH. Generalist Repositories, 2023. URL [https://sharing.nih.gov/datamanagement-
+and-sharing-policy/sharing-scientific-data/generalistrepositories](https://sharing.nih.gov/datamanagement-
+and-sharing-policy/sharing-scientific-data/generalistrepositories).
+
+[^5]: Mark D. Wilkinson *et al*. The FAIR Guiding Principles for scientific
 data management and stewardship. Scientific Data, 3(1):160018,
 March 2016. ISSN 2052-4463. doi: 10.1038/sdata.2016.18. URL [https:
 //www.nature.com/articles/sdata201618](https:
 //www.nature.com/articles/sdata201618). Number: 1 Publisher: Nature Publishing
 Group.
 
-[^5]: Creative Commons Wiki. CC0 use for data, 2014. URL [https://wiki.
+[^6]: Creative Commons Wiki. CC0 use for data, 2014. URL [https://wiki.
 creativecommons.org/wiki/CC0_use_for_data](https://wiki.
 creativecommons.org/wiki/CC0_use_for_data).
 
-[^6]: Scientific Data Data Policies. Nature 2024. URL [https://www.nature.com/sdata/policies/
+[^7]: Scientific Data Data Policies. Nature 2024. URL [https://www.nature.com/sdata/policies/
 data-policies](https://www.nature.com/sdata/policies/data-policies)

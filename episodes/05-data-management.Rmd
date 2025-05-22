@@ -1,5 +1,5 @@
 ---
-title: 'Data Management'
+title: 'Data Management Plans and Stewardship'
 teaching: 10
 exercises: 2
 ---
@@ -13,32 +13,37 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Demonstrate writing a living DMP using a word processor or DMPTool.org.
-- Understand the importance of talking about data stewardship.
+- Demonstrate writing a living DMP using a word processor or your organization's tool.
+- Understand the importance of data stewardship.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+This data Documentation episode based on Chapter 5 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney.
 
 ## Introduction
 
 While this whole training encompasses data management activities, this section will
 introduce you to two useful areas: A living Data Management Plan and the roles and
-responsibilites around data management with research collaborators, known as Data
+responsibilities around data management with research collaborators, known as Data
 Stewardship.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Emphasize that a DMP is a living document and can be changed at a later time. Also, you don't need to be able to answer all the questions right away, but the important parts are to the person associated with the data, what type of data it is, where it will be stored, and how long to store it.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Living Data Management Plan (DMP)
 
 Many researchers are aware of the two-page data management
 plan (DMP) for a grant application, but you may not be aware of the more useful
 type of DMP: a living DMP. This document describes how data will be actively
-managed during a project and may be updated whenever necessary to reflect
-current data practices. A living DMP is a useful touchstone for understanding
+managed during a project and is called living because it may be updated whenever necessary to reflect
+current data practices. A DMP is a useful touchstone for understanding
 where data lives, how it’s labelled, how it moves through the research process,
 and who will oversee the data management.
 
-For DMPs, UC has partnered with [DMPTool](https://dmptool.org/). This is a free
-service for researchers and you can log in with your UC credentials through SSO.
-The internet has many resources and videos going over how to use DMPTool. The following link
-is 13 min. video by [Carnegie Mellon University Libraries](https://www.youtube.com/watch?v=HWdmbXna2xs)
+For DMPs, your oganization might have a specific tool, such as the popular [DMPTool](https://dmptool.org/). This is a free service for researchers that supports SSO sign on by participating organizations. The internet has many resources and videos going over how to use DMPTool. The following link is 13 min. video by [Carnegie Mellon University Libraries](https://www.youtube.com/watch?v=HWdmbXna2xs)
 showing DMPTool and how to fill out the forms is provided.
 
 ::::::::::::::::::::::::::::::::::::: challenge
@@ -46,8 +51,7 @@ showing DMPTool and how to fill out the forms is provided.
 Pick a project and answer the following questions to build your
 living DMP. This DMP may be changed at any time to improve practices. If
 you are doing collaborative research, work through this exercise with your collaborators
-to agree on shared conventions. Feel free to use the [DMPTool](https://dmptool.org/) service
-and you can check that the DMP made is a test in the initial screen.
+to agree on shared conventions. Feel free to use your organizations supported DMP tool if there is one.
 
 **Write a short summary of the project this DMP is for:**
 
@@ -190,3 +194,4 @@ it moves through the research process, and who will oversee the data management.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+[^1]: Briney, K. (2023). The Research Data Management Workbook. Caltech Library. [https://doi.org/10.7907/z6czh-7zx60](https://doi.org/10.7907/z6czh-7zx60).

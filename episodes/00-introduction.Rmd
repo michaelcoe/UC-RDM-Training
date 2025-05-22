@@ -21,7 +21,7 @@ exercises: 0
 
 RDM involves practices and choices that simplify the process of finding, comprehending, 
 and utilizing research data for you, your collaborators, and your future self. These 
-practices encompass the entire data lifecycle, from collection and analysis to sharing 
+practices encompass the entire data life cycle, from collection and analysis to sharing 
 and reuse. Research is hard enough as it is without having to
 fight with your files, so the goal of data management is for you to maximize
 your time doing research instead of spending extra time with file handling.

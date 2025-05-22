@@ -20,7 +20,7 @@ carpentry: 'incubator'
 title: 'Data Handling and Management Training'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created:
 
 # Comma-separated list of keywords for the lesson
 keywords: 'data management, data, lesson, The Carpentries'
@@ -71,16 +71,17 @@ episodes:
 - 04-data-storage.Rmd
 - 05-data-management.Rmd
 - 06-data-sharing.Rmd
-- 07-project-wrap-up.Rmd
+- 07-fair-and-care.Rmd
+- 08-project-wrap-up.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #

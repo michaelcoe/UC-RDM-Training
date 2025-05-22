@@ -1,6 +1,6 @@
 ---
 title: 'File Orgainization and Naming'
-teaching: 10
+teaching: 30
 exercises: 2
 ---
 
@@ -19,14 +19,17 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+This data Documentation episode based on Chapter 3 of "[The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)"[^1] by Kristin Briney.
+
 ## Introduction
 
-Implementing a file organization system is the first step toward
-creating order for your research data. Well-organized files make it easier to find
-the data you need without spending lots of time searching your computer. Every
-researcher organizes their files slightly differently, but the actual organizational
-system is less important that having a place where all of your files should logically
-go. 
+Implementing a file organization system is the first step toward creating order for your research data. Well-organized files make it easier to find the data you need without spending lots of time searching your computer. Every researcher organizes their files slightly differently, but the actual organizational system is less important that having a place where all of your files should logically go. This will further help you understand what the file is if you come back to it at a later time.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Emphasize the importance of a good file naming scheme as a way of understanding your files if you come to them at a later time.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 

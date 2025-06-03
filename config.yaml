@@ -71,8 +71,9 @@ episodes:
 - 04-data-storage.Rmd
 - 05-data-management.Rmd
 - 06-data-sharing.Rmd
-- 07-fair-and-care.Rmd
-- 08-project-wrap-up.Rmd
+- 07-care-indigenous-data.Rmd
+- 08-fair.Rmd
+- 09-project-wrap-up.Rmd
 
 # Information for Learners
 learners:

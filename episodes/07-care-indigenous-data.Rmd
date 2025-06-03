@@ -1,0 +1,115 @@
+---
+title: 'CARE & Indigenous Data'
+teaching: 20
+exercises: 1
+---
+
+:::::::::::::::::::::::::::::::::::::: questions 
+
+- What are the key principles for managing Māori data?
+- What are the CARE principals?
+- Who can I contact for guidance? 
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: objectives
+
+- Discern if data is owned or related to Māori or indigenous groups.
+- Understand the purpose of the CARE principals.
+- Know where to look for more information and guidance on indigenous people's data
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Tangata Tū, Tangata
+
+Engagement with Māori underpins Te Whare Wānanga o Waitaha University of Canterbury [Strategic Vision 2020 to 2030: Tangata Tū, Tangata | Ora Engaged, Empowered, Making a difference](https://www.canterbury.ac.nz/about-uc/corporate-information/strategy-and-plans/uc-strategic-vision-2020-2030).
+Māori data is about, from or connected to Māori  - population, place culture and environment.  More specifically, but not limited to:
+
+- Data from government agencies, organisations and/or businesses.
+- Data about Māori that are used to describe or compare Māori collectives.
+- Data about Te Ao Māori that emerges from research.
+
+## Why does Māori data matter?
+
+1. Historically, Māori data has often been collected by outsiders and used in ways that don’t benefit Māori or even harm Māori (Smith, 2021)[^1].
+- Data drives policy, funding, and representation. If Māori don’t control their data, they can’t fully influence decisions that affect them.
+
+### Challenges
+
+- Most government systems still hold the data power. E.g. Census data
+- Access to quality, disaggregated data for Māori communities can be limited.
+- Western data standards don’t always align with Kaupapa Māori values (i.e., opposing epistemologies)
+- Historical uses of Māori data leave a legacy of caution or reluctance from Māori communities and Māori academics (don’t take it personally)
+- This is particularly difficult for Māori academics, who take on a dual role: they see poor or uninformed practices and become the defense for Māori communities inside the academy whilst also being the face of the academy in their communities.
+
+Therefore, indigenous data sovereignty is about restoring balance, making sure indigenous communities decide how their data is collected, used and shared (mana motuhake)
+
+## Key Concepts and Principles 
+
+- **Māori data** refers to digital or digitisable information or knowledge that is about or from Māori people, our language, culture, resources or environments.
+- **Māori Data Sovereignty** refers to the inherent rights and interests that Māori have in relation to the collection, ownership, and application of Māori data. 
+- **Māori Data Governance** refers to the principles, structures, accountability mechanisms, legal instruments and policies through which Māori exercise control over Māori data. 
+
+## The CARE Principles [^2]
+
+![[FAIR-CARE-principles.png]]
+
+- **The CARE Principles:**
+    
+    - **Collective Benefit:** Highlight the importance of data benefiting Indigenous communities.
+    - **Authority to Control:** Emphasize Indigenous peoples' right to control their data.
+    - **Responsibility:** Stress the responsibilities of data users to Indigenous peoples.
+    - **Ethics:** Focus on the ethical considerations in data use.  
+    
+## Te Mana Raraunga Principles:[^3]
+    
+1. #### Rangatiratanga | Authority 
+	1. **Control.** Māori have an inherent right to exercise control over Māori data and Māori data ecosystems. This right includes, but is not limited to, the creation, collection, access, analysis, interpretation, management, security, dissemination, use and reuse of Māori data. 
+	2. **Jurisdiction**. Decisions about the physical and virtual storage of Māori data shall enhance control for current and future generations. Whenever possible, Māori data shall be stored in Aotearoa New Zealand. 
+	3. **Self-determination.** Māori have the right to data that is relevant and empowers sustainable self-determination and effective self-governance. 
+2. #### Whakapapa | Relationships 
+	1. **Context**. All data has a whakapapa (genealogy). Accurate metadata should, at minimum, provide information about the provenance of the data, the purpose(s) for its collection, the context of its collection, and the parties involved. 
+	2. **Data disaggregation.** The ability to disaggregate Māori data increases its relevance for Māori communities and iwi. Māori data shall be collected and coded using categories that prioritise Māori needs and aspirations. 
+	3. **Future use**. Current decision-making over data can have long-term consequences, good and bad, for future generations of Māori. A key goal of Māori data governance should be to protect against future harm. 
+3. #### Whanaungatanga | Obligations 
+	1. **Balancing rights.** Individuals’ rights (including privacy rights), risks and benefits in relation to data need to be balanced with those of the groups of which they are a part. In some contexts, collective Māori rights will prevail over those of individuals. 
+	2. **Accountabilities.** Individuals and organisations responsible for the creation, collection, analysis, management, access, security or dissemination of Māori data are accountable to the communities, groups and individuals from whom the data derive. 
+4. #### Kotahitanga | Collective benefit 
+	1. **Benefit.** Data ecosystems shall be designed and function in ways that enable Māori to derive individual and collective benefit. 
+	2. **Build capacity.** Māori Data Sovereignty requires the development of a Māori workforce to enable the creation, collection, management, security, governance and application of data. 
+	3. **Connect**. Connections between Māori and other Indigenous peoples shall be supported to enable the sharing of strategies, resources and ideas in relation to data, and the attainment of common goals. 
+5. #### Manaakitanga | Reciprocity 
+	1. **Respect.** The collection, use and interpretation of data shall uphold the dignity of Māori communities, groups and individuals. Data analysis that stigmatises or blames Māori can result in collective and individual harm and should be actively avoided.
+	2. **Consent.** Free, prior and informed consent (FPIC)2 shall underpin the collection and use of all data from or about Māori. Less defined types of consent shall be balanced by stronger governance arrangements. 
+6. #### Kaitiakitanga | Guardianship 
+	1. **Guardianship**.  Māori data shall be stored and transferred in such a way that it enables and reinforces the capacity of Māori to exercise kaitiakitanga over Māori data. 
+	2. **Ethics.** Tikanga, kawa (protocols) and mātauranga (knowledge) shall underpin the protection, access and use of Māori data. 
+	3. **Restrictions**. Māori shall decide which Māori data shall be controlled (tapu) or open (noa) access. 
+
+## Connecting Māori Data Sovereignty and the CARE Principles
+
+::::::::::::::::::::::::::::::::::::: challenge 
+
+How do Māori Data principles align with the CARE principles?
+    
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: solution 
+
+- Rangatiratanga strongly aligns with “Authority to Control”.
+- Kotahitanga aligns with “Collective Benefit”.
+- Manaakitanga and Kaitiakitanga align with “Ethics” and “Responsibility.”
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Practical steps for working with FAIR, CARE and Māori Data Sovereignty as complementary data principles
+
+1. Publish a description or metadata-only record of research data in a data repository (e.g. [Institutional Figshare](https://figshare.canterbury.ac.nz)). This enables others to discover and understand the applicability of the research data. Consider a meaningful name (e.g. avoid 'Thesis data'), appropriate metadata, and providing a sample of the data, actual or synthetic.
+2. Establish and maintain a mediated access process (e.g,. email request or form) linked to the publish description. This process should follow agreed governance processes and ideally, take a people and purpose-oriented approach to granting access.
+3. Create a data sharing agreement to define and record who the data is shared with, for what purpose, under what conditions (e.g. method of transfer, security requirements) and by whose authority (governance). [Dropbox for Researchers](https://research-hub.auckland.ac.nz/service/dropbox-for-researchers) and the [Institutional Figshare](https://figshare.canterbury.ac.nz) Projects feature may be useful for storing agreements and sharing files with named individuals.
+4. Produce a data availability statement within the publication (e.g. journal article, thesis) linking to the description, possibly referencing the mediated access process and alignment with FAIR, CARE and Māori Data Sovereignty data principles.
+
+[^1]: Smith, L. T. (2008). Decolonizing methodologies: Research and indigenous peoples_ Zed Books 
+
+[^2]: \_Resources_. (n.d.). Te Mana Raraunga. Retrieved 10 April 2025, from [https://www.temanararaunga.maori.nz/nga-rauemi](https://www.temanararaunga.maori.nz/nga-rauemi)
+
+[^3]: \_CARE Principles_. (2023, January 23). Global Indigenous Data Alliance. [https://www.gida-global.org/care](https://www.gida-global.org/care)

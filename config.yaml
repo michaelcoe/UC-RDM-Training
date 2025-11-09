@@ -69,10 +69,11 @@ episodes:
 - 02-dataset-readme-data-dictionary.Rmd
 - 03-file-organization-naming.Rmd
 - 04-data-storage.Rmd
-- 05-data-management.Rmd
-- 06-fair-data-sharing.Rmd
-- 07-care-indigenous-data.Rmd
-- 08-project-wrap-up.Rmd
+- 05-persistent-identifiers.Rmd
+- 06-data-management.Rmd
+- 07-fair-data-sharing.Rmd
+- 08-care-indigenous-data.Rmd
+- 09-project-wrap-up.Rmd
 
 # Information for Learners
 learners:

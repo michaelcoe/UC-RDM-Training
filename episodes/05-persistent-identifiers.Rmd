@@ -1,0 +1,86 @@
+---
+title: 'Persistent Identifiers'
+teaching: 20
+exercises: 1
+---
+
+:::::::::::::::::::::::::::::::::::::: questions 
+
+- What are persistent identifiers?
+- How does a persistent identifier help your research?
+- What should you have a persistent identifier for?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: objectives
+
+- Demonstrate an understanding of ORCID and persistent identifiers.
+- Understand how they can employ persistent identifiers in research.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Introduction
+
+Persistent identifiers (PID), by name, are meant to be persistent. Many people confuse something like a Universal Resource Locator (URL) as being a persistent identifier. Yet, people are familiar with getting the '404 not found' page when contacting a web server that follows the HTTP protocol[^1]. This could be caused by one of the following: the document is no longer available, the document has been relocated so that it is accessible using a different domain, and relocated on the same server but is now accessible from a different path. These cases are just some of the things that PIDs aim to fix.
+
+Some of the PIDs that researchers might be familiar with are [Digital Object Identifiers (DOI)](https://www.doi.org/), [International Standard Serial Numebers (ISSNs)](https://portal.issn.org/), [Internation Standard Book Numbers (ISBNs)](https://www.isbn-international.org/), [Research Organization Registry](https://ror.org/), and [Open Researcher and Contributor ID (ORCID)](https://orcid.org/). This episode introduces PIDs and outlines how they can be used for Research Data Management and Research.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+
+Most people are probably familiar with Universal Resource Locators (URLs), but it's important
+to distinguish the different between an URL and a Persistent Identifier.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Digital Object Identifiers (DOI)
+
+Digital Object Identifiers (DOI) is managed and controlled by the International DOI Foundation. It provides administrative schemes and workflows for the management of PIDs for digital objects[^1]. DOIs are created to be[^2]:
+
+- Persistent: the DOI having a (fixed) relation to the named resource, whereas its location or stewardship is only expressed in the metadata that belong to the DOI.
+- Actionable: metadata can be accessed by the user of a DOI
+- Interoperable: the DOI is meant to integrate other 'legacy' identifier schemes, to be technically independent of current access mechanisms.
+- An identifier to be suitable for even wider scopes of object identification in the digital world: The usage of a DOI is not restricted to digital objects.
+
+DOIs follow the [ISO 26324:2025](https://www.iso.org/standard/88862.html) standard. The assignment of DOIs is delegated to 'Registration Agencies' that must fulfill certain quality standards. These 'Registration Agencies' must be members of the International DOI Foundation which is the agency that manages and controls DOIs[^1]. Many researchers are familiar with getting a DOI when publishing a paper or a data repository.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+A DOI for a paper or repository allows other researchers to have a persistent link to your paper or data even if that resource moves.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Open Researcher and Contributor ID (ORCID)
+
+An ORCID iD is a unique, persistent identifier that is free of charge to researchers. An ORCID record is connected to the ORCID iD that enables interoperability between an ORCID record and member organizations so researchers can choose to allow connection of their iD with their affiliations and contributions[^3]. 
+
+Your ORCID links all your research to you by allowing trusted organizations to add your research information to the ORCID record. For instance, if you publish a paper in an Elsevier journal, the organization [Crossref](https://www.crossref.org/) will link that article to your ORCID automatically. This allows for an updated record off all your research and publications. Alternatively, you can manually change your ORCID record and update it with employment, education, associated organizations, etc.
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+Go to the [ORCID website](https://orcid.org/) and sign up for a free ORCID. You can refer to the [ORCID Tutorials](https://info.orcid.org/video-tutorials/) for setting up your account and the [ORCID FAQs](https://info.orcid.org/researcher-faq/) for frequently asked questions.
+
+:::::::::::::::::::::::::::::::::::::
+
+## Research Organization Registry (ROR)
+
+The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research and funding organizations. The idea behind ROR is for anyone or any system to disambiguate institution names and connect research organizations and researcher to research outputs. Because organizations are not static entities (they change their names, merge, split, shut down, and re-emerge) and this makes it difficult to connect research organizations to research outputs and researchers. A persistent identifier for research organizations makes this easier[^4].
+
+The ROR is operated by [California Digital Library](https://cdlib.org/), [Crossref](https://www.crossref.org/), and [DataCite](https://datacite.org/). An organizations ROR record is updated by submitting a curation request form and each organization usually has a person responsible for maintaining the organizations ROR[^4]. It is important to be aware of your organization's ROR because it removes any ambiguity with the organization you are associated with.
+
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- A Persistent Identifier (PID) is a long lasting reference to an object.
+- Unlike things like University Resource Locators (URLs), a PID is meant to maximize longevity, but can only be persistent as long as someone commits to resolving them for users.
+- The Digital Object Identifier (DOI) is a PID that relates to Digital Objects and is most commonly used for journal articles or repositories.
+- The Open Researcher and Contribution ID (ORCID) is a PID that defines a researcher and keeps a record of their research contributions.
+- A Research Organization Registry (ROR) is a PID for research and funding organizations.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+[^1]: Hans-Werner Hilse and Jochen Kothe, Implementing persistent identifiers: overview of concepts, guidelines and recommendations. London / Amsterdam: Consortium of European Research Libraries and European Commission on Preservation and Access, 2006. ISBN 90-6984-508-3.
+
+[^2]: DOI Handbook [https://doi.org/10.1000/182](https://doi.org/10.1000/182)
+
+[^3]: About ORCID [https://info.orcid.org/what-is-orcid/](https://info.orcid.org/what-is-orcid/)
+
+[^4]: About ROR [https://ror.org/about/](https://ror.org/about/)

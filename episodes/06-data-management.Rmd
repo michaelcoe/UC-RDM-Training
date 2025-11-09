@@ -132,7 +132,7 @@ around research data. This exercise encourages you to discuss these
 issues with supervisors and peers to make sure that there are no misunderstandings
 about who has what rights to use, retain, and share data. Many of these will be
 addressed in the living DMP, but we will separate them into their own category
-here.
+here. Taniwha protects the data from us and us from the data.
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
